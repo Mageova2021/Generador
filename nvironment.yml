@@ -1,0 +1,6 @@
+name: voila-env
+dependencies:
+  - python=3.8
+  - voila
+  - ipywidgets
+  - notebook
